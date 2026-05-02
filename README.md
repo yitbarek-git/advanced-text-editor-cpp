@@ -138,10 +138,3 @@ C++ OOP design
 
 Give it a star ⭐ and feel free to improve it or fork it.
 
-
----
-
-If you want next level improvement, I can also:
-- rewrite your code into a **clean “industry-style architecture”**
-- or add **diagram explanation for your presentation**
-- or make it look like a **real Notepad++ mini clone project** 🚀
